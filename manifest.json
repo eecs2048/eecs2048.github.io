@@ -1,11 +1,11 @@
 {
-    "name": "twentyfortyeight",
-    "short_name": "twentyfortyeight",
+    "name": "EECS 2048",
+    "short_name": "EECS 2048",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "EECS 2048... Unlock your favorite professors!",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
